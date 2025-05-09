@@ -69,6 +69,3 @@ orbit-mvi = [
 ]
 
 ```
-
-For more details, refer to the `ui.versions.toml` file in this module.
-```
