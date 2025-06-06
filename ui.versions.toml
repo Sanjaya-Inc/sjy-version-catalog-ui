@@ -53,3 +53,4 @@ androidx-compose-debug = [
 ]
 
 [plugins]
+lumo = { id = "com.nomanr.plugin.lumo", version = "1.2.5" }
