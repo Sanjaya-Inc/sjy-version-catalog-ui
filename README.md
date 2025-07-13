@@ -1,5 +1,5 @@
 This module provides a centralized version catalog for managing dependencies in your Gradle project. It simplifies dependency management by defining versions and libraries in a single TOML file.
-
+# Deprecated use merged version catalog on buildlogic
 ## How to Use
 
 ### 1. Add as a Git Submodule
